@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: rupp-final-container
-          image: sayson/rupp-final:18
+          image: sayson/rupp-final:20
           ports:
             - containerPort: 3000
 ---
